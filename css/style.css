@@ -1,0 +1,23 @@
+@keyframes zegar {
+    0% {nie wiem jak tutaj odwołać się do poszczególnych id}
+    10% {}
+    20% {}
+    30% {}
+    40% {}
+    50% {}
+    60% {}
+    70% {}
+    80% {}
+    90% {}
+    100 {}
+}
+
+
+.odliczanie {
+    background-color: black;
+    color: white;
+    animation-name: zegar;
+    animation-duration: 2s;
+    animation-iteration-count: infinite;
+    
+}
